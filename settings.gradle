@@ -1,0 +1,2 @@
+rootProject.name = 'rabbitmq-multi-modul-demo'
+include 'producer-demo', 'consumer-demo'
